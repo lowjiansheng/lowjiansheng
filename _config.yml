@@ -1,19 +1,19 @@
 # Site settings
-title:
-email:
+title: Low Jian Sheng
+email: lowjiansheng@hotmail.sg
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "lowjiansheng.github.io/lowjiansheng/" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
-twitter_username:
-github_username:
+owner: Low Jian Sheng
+email: lowjiansheng@hotmail.sg
+facebook_username: lowjiansheng
+twitter_username: lowjiansheng
+github_username: lowjiasnheng
 address:
   - line:
   - line:
