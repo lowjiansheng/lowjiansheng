@@ -15,20 +15,20 @@ h1 {
   overflow:auto;
   padding:2%;
 }
-.right-content, .left-content {
+.right-content-timeline, .left-content-timeline {
   float:left;
   display:block;
   width:40%;
   padding:1% 2%;
 }
-.left-content {
+.left-content-timeline {
   border-right:5px dotted #666; 
   text-align:right;
 }
-.left-content p {
+.left-content-timeline p {
   margin:150px 0 0;
 }
-.right-content p {
+.right-content-timeline p {
   margin:80px 0 150px;
 }
 .container p {
