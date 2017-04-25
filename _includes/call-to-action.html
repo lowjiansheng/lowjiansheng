@@ -1,5 +1,19 @@
+
 <section id="experience" style="padding-bottom:5%" >
-	<div class="container">
+<script>
+	$(window).scroll(function() {
+		$('#object').each(function(){
+		var imagePos = $(this).offset().top;
+
+		var topOfWindow = $(window).scrollTop();
+			if (imagePos < topOfWindow+10000) {
+				$(this).addClass("slideUp");
+			}
+		});
+	});
+</script>
+	
+	<div id="object" class="container slideUp">
 		<div class="row">
 			<div class="col-lg-offset-1 col-lg-10">
 				<h2 class="text-center">Work Experience</h2>

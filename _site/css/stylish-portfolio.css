@@ -63,6 +63,22 @@ hr.small {
     max-width: 100px;
 }
 
+#arrow {
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+#arrow:hover {
+  top: -10px;
+}
+
+.myBackground {
+  background-color: rgba(255,255,255, 0.5);
+  border-style: outset;
+  border-width: 3px;
+  color: inherit;
+}`
+
 /* Side Menu */
 
 #sidebar-wrapper {
